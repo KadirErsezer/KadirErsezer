@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Programming/Coding about Front-End & Back-End Technologies 
 - 💞️ I’m looking to collaborate on software companies 
 - 📫 How to reach me:
-- <b>
 Mail =  kadirersezer98@gmail.com
   <br>
 Github = https://github.com/KadirErsezer/
