@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on software companies 
 - 📫 How to reach me: 
 Mail =  kadirersezer98@gmail.com
+  <br>
 Github = https://github.com/KadirErsezer/
 linkedln = https://www.linkedin.com/in/kadir-ersezer-11196a200/
 
