@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KadirErsezer
 -    I’m interested in Software Technologies 
--    I’m currently learning Programming/Coding about Front-End & Back-End Technologies 
+-    I’m currently learning Programming/Coding about Front-End
 - 📫 How to reach me:
   
 E-mail =  kadirersezer98@gmail.com
